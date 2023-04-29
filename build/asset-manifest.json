@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.708a7dc1.css",
+    "main.js": "/static/js/main.9932920b.js",
+    "static/media/ifel.jpg": "/static/media/ifel.750ecfcc284bef2830e3.jpg",
+    "static/media/trip1.jpg": "/static/media/trip1.0c7ecf318406f96e3107.jpg",
+    "static/media/trip3.jpg": "/static/media/trip3.6b1c372dd3388edc5294.jpg",
+    "static/media/trip2.jpg": "/static/media/trip2.799ab65f1715ec09cfdf.jpg",
+    "static/media/paris.jpg": "/static/media/paris.5a4bebd1773a3dfe52d8.jpg",
+    "static/media/contact.jpg": "/static/media/contact.8748094737881aa063c2.jpg",
+    "static/media/dest1.jpg": "/static/media/dest1.923c68284b2819ed5483.jpg",
+    "static/media/dest2.jpg": "/static/media/dest2.b12bfd1a693d52588af0.jpg",
+    "static/media/aboutImg.jpg": "/static/media/aboutImg.21169d7ddd4a84941e2f.jpg",
+    "index.html": "/index.html",
+    "main.708a7dc1.css.map": "/static/css/main.708a7dc1.css.map",
+    "main.9932920b.js.map": "/static/js/main.9932920b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708a7dc1.css",
+    "static/js/main.9932920b.js"
+  ]
+}
